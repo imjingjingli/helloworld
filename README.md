@@ -1,2 +1,0 @@
-# helloworld
-Do an exercise.
